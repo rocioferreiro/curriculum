@@ -322,10 +322,6 @@ h1{
         margin-right: 40px;
     }
 
-    .side{
-        height: 1300px;
-    }
-
     .detalle{
         margin-left: 0;
     }
@@ -394,10 +390,6 @@ h1{
     
         font-size: 12px;
     
-    }
-
-    .side{
-        height: auto;
     }
 
     .side p{

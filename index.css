@@ -342,7 +342,78 @@ h1{
         font-size: 15px;
         margin-left: 10px;
     }
+}
 
 
+/*________________________________________500_____________________________________*/
+
+@media screen and (max-width:500px){
+
+    #title img{
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        float: right;
+        vertical-align: top;
+        margin-right: 40px;
+    }
+
+    h1{
+        width: 100px;
+        font-weight: 300;
+        font-size: 30px;
+    }
+
+    #title {
+        height: 200px;
+    }
+    .contact-info{
+        font-size: 8px;
+        margin-bottom: 15px;
+    }
+    .detalle-izq {
+       width: 100px;
+    }
+
+    .detalle-der {
+        width: 130px;
+        font-size: 12px;
+     }
+
+     .title > i{
+        font-size: 12px;
+        width: 30px;
+        height: 30px;
+        line-height: 28px;
+        margin-left: 10px;
+    }
+
+    .side .contact-info >i{
+        width: 12px;
+        height: 12px;
+       
+        margin-left: 10px;
+        font-size: 12px;
+        margin-right: 10px;
+    }
+
+    .side p{
+        font-size: 12px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .title h3{
+        font-size: 12px;
+        margin-left: 10px;
+    }
+
+    li{
+        font-size: 10px;
+    }
+
+    .side .contact-info p {
+        font-size: 8px;
+    }
 
 }
